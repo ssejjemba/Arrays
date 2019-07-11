@@ -1,4 +1,4 @@
-public class Sort {
+public class Search {
     public static int SequentialSearch(int[] arr, int size, int value)
     {
         int i = 0;
